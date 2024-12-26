@@ -102,6 +102,9 @@ function App() {
           </div>
         </div>
       </div>
+      <footer className="absolute bottom-2 right-4 text-sm font-medium text-white">
+        By Om Dalbhanjan
+      </footer>
     </div>
   );
 }
